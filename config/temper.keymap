@@ -192,7 +192,7 @@
             bindings = <
 &kp N1        &kp N2        &kp N3     &kp N4          &kp N5          &kp N6              &kp N7        &kp N8            &kp N9         &kp N0
 &kp LEFT_GUI  &kp LEFT_ALT  &kp LCTRL  &kp LEFT_SHIFT  &kp CAPSLOCK    &kp LEFT            &kp DOWN      &kp UP            &kp RIGHT      &kp PAGE_UP
-&trans        &trans        &trans     &trans          &trans          &kp LG(LEFT_ARROW)  &kp LG(DOWN)  &kp LG(UP_ARROW)  &kp RG(RIGHT)  &kp PAGE_DOWN
+&kp ENTER        &trans        &trans     &trans          &trans          &kp LG(LEFT_ARROW)  &kp LG(DOWN)  &kp LG(UP_ARROW)  &kp RG(RIGHT)  &kp PAGE_DOWN
                             &trans     &trans          &trans          &trans              &trans        &trans
             >;
         };
